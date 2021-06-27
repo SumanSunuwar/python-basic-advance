@@ -86,4 +86,6 @@ n.gun()
 af.gun()
 a.area()
 n.area()
-af.area()    
+af.area()  
+
+print("method finished executing")

@@ -165,9 +165,9 @@ class Student(Father,Mother):#grandChild class
 
 st1 = Student("ram",20)
 st1.work()
-st1.study()
-st1.cook()
-print(Student.mro())
+# st1.study()
+# st1.cook()
+# print(Student.mro())
 
 # ram is working from Father class
 # ram is studying from Person class
